@@ -1,5 +1,5 @@
 # sample-dotnet-8-api
-Content
+This is sample dotnet 8, main focusing is github action workflow practice
 
 [![Clean And Build Project](https://github.com/tuantran0343/sample-dotnet-8-api/actions/workflows/Build-Source.yml/badge.svg?branch=main)](https://github.com/tuantran0343/sample-dotnet-8-api/actions/workflows/Build-Source.yml)
 
