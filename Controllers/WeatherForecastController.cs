@@ -10,7 +10,7 @@ namespace SampleAPI.Controllers
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy1", 
             "Hot", "Sweltering", "Scorching", "Weather", "Calm", "Please", "Mate",
-            "Brandee", "Toyota"
+            "Brandee", "Toyota", "Merc"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
